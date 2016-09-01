@@ -1,0 +1,2 @@
+use "model";
+lmis701bmp = ImportImageFromFile("lmis701.png", false);
